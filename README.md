@@ -7,13 +7,23 @@ Download from: https://www.cvlibs.net/datasets/kitti/eval_tracking.php
 
 Expected folder structure:
 KITTI/
+
 ├── data_tracking_image_2/
+
 │   └── training/
+
 │       └── image_02/
+
 │           ├── 0000/
+
 │           └── 0001/
+
 └── data_tracking_label_2/
+
     └── training/
+    
         └── label_02/
+        
             ├── 0000.txt
+            
             └── 0001.txt
